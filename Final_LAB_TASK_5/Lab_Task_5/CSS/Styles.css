@@ -1,0 +1,29 @@
+.add_Product
+{
+    max-width: 600px;
+    height: fit-content;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 200px;
+    font-size: 30px;
+}
+label
+{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+input.name
+{
+    width: 500px;
+    padding: 10px;
+   
+}
+input.button
+{
+    width: 300px;
+    padding: 5px;
+    background-color: rgb(2, 2, 17);
+    font-size: 20px;
+    color: beige;
+    animation: backwards;
+}
